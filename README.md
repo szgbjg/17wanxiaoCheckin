@@ -24,7 +24,7 @@
 &emsp;&emsp;由于完美校园就设备做了验证，只允许一个设备登录，获取本机的 device_id 可通过 [xp hook](https://reajason.top/2021/04/18/17wanxiaohookgetdeviceid/) 或抓包实现来实现与脚本共存（完美校园 app 主界面 -> 全部应用 ——> 打开校园卡时抓包【 http://server.17wanxiao.com/YKT_Interface/xyk 】【请求体中 method=WX_BASE_INFO 】）
  
 
-
+ 
 ## 🔰项目功能
 
 * [x] 完美校园模拟登录获取 token
